@@ -1,6 +1,6 @@
 # Cemantix-solveur
 
-Programme pour résoudre rapidement le jeu Cémantix fait par Xilly04 assisté par Claude AI :
+Solveur pour résoudre le jeu Cémantix fait par Xilly04 assisté par Claude AI :
 
 
 
