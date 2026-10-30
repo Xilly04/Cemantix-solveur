@@ -14,8 +14,8 @@ Téléchargez le programme "filtre.py" et "lexique.txt". Placez les dans le mêm
 
 Puis, lacez la commande :
 
-python filtre.py frWac_no_postag_phrase_500_cbow_cut10.bin frWac_filtered.bin lexique.txt
+    python filtre.py frWac_no_postag_phrase_500_cbow_cut10.bin frWac_filtered.bin lexique.txt
 
 Usage
 -----
-Placez le fichier filtré dans votre dossier avec "solveur.py" et lancez le programme
+Placez le fichier "frWac_filtered.bin" filtré dans votre dossier avec "solveur.py" et lancez le programme
