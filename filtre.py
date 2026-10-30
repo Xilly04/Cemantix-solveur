@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-filter_word2vec_bin.py
+filtre.py
 
 Filtre un fichier d'embeddings word2vec au format binaire (type frWac /
 fastText-style "word2vec C binary format") pour ne garder que les vecteurs
@@ -18,7 +18,7 @@ Format binaire attendu (standard word2vec) :
         <mot><espace><dim x 4 octets (float32)><\n>
 
 Usage :
-    python filter_word2vec_bin.py input.bin output.bin wordlist_fr.txt
+    python filter.py input.bin output.bin wordlist_fr.txt
 """
 
 import sys
